@@ -1,6 +1,6 @@
 # Band Descriptor for Spatial Cellular Analysis in Tissue Samples
 
-## Abstract
+## Summary
 
 Human tissue samples exhibit remarkable cellular and structural diversity, where alterations in the spatial arrangement of cells can signal the onset or progression of disease. Therefore, characterizing these spatial cellular interactions and linking them to clinical endpoints is critical to advance our understanding of disease biology and improve patient care. 
 
@@ -41,6 +41,11 @@ To be added soon along with source code.
 <sup>3</sup> Oxford University Hospitals, Oxford, UK  
 <sup>4</sup> Division of Pathology, ASST Santi Paolo e Carlo, Milan, Italy  
 
+---
+
+---
+## Acknowledgements
+This work was supported by **Blood Cancer UK** and **Cancer Research UK**.
 ---
 
 ## License
